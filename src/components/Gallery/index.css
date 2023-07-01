@@ -1,0 +1,27 @@
+.bg-container {
+  font-family: roboto;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding-left: 100px;
+  padding-top: 20px;
+  height: 700px;
+  width: 800px;
+}
+.image {
+  width: 600px;
+  height: 500px;
+  border-radius: 5px;
+}
+.heading {
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+}
+.para {
+  font-size: 12px;
+}
+.unordered-list-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  padding: 0px;
+}
